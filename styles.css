@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+html {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, #222, #111);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: lightgrey;
+}
+
+body {
+    line-height: 1.5;  
+    font-family: Helvetica;
+}
+
+main {
+    max-width: 780px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.input-section {
+    width: 87%;
+    margin: auto;
+    padding: 3px;
+}
+
+h1, h2, h3 {
+    font-family: Helvetica;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: auto;
+    padding: 1rem;
+    opacity: 100%;
+}
+
+h2 {
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    padding: 0;
+    margin: auto;
+}
+
+.list-header {
+    background-color: #111;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.form-section {
+    padding: 1rem;
+    line-height: 1.75rem;
+    width: 70%;
+    margin: auto;
+}
+
+.results-section {
+    width: 90%;
+    margin: auto;
+    margin-top: 5px;
+    padding: 3px;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    padding: 3px;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+    text-align: center;
+    
+}
+
+form input {
+    width: 30%;
+    height: 1rem;
+    background-color: whitesmoke;
+}
+
+.form-submit {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 3px;
+
+}
+
+.tasks-table-section {
+    width: auto;
+    margin: auto;
+    padding: 3px;
+}
+
+.item-col {
+    width: 40%;
+}
+
+.due-date-col {
+    width: 25%;
+}
+
+.complete-col {
+    width: 15%;
+}
+
+.remove-col {
+    width: 20%;
+}
