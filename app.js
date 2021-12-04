@@ -21,7 +21,7 @@ newTaskForm.addEventListener('submit', (event) => {
             <td>${newTask}</td>
             <td>${newDueDate}</td>
             <td><input type="checkbox" class="mark-complete"></td>
-            <td><button class="delete-item">Delete</button></td>
+            <td><button class="delete-item">delete</button></td>
     `;
 
     newTaskForm.reset();
