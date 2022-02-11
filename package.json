@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/trevorwallis13/js-to-do-list/issues"
   },
-  "homepage": "https://github.com/trevorwallis13/js-to-do-list",
+  "homepage": "https://github.com/trevorwallis13/js-to-do-list/dist",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
