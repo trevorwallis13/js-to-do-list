@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Use a form to add new items and due dates to a to-do list. Each item has the option to delete or mark complete.",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorwallis13/js-to-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorwallis13/js-to-do-list/issues"
+  },
+  "homepage": "https://github.com/trevorwallis13/js-to-do-list",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
